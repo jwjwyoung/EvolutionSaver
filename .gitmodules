@@ -2,3 +2,7 @@
 	path = snake
 	url = https://github.com/jwjwyoung/snake.git
 	branch = master
+[submodule "evelution_helper"]
+	path = evelution_helper
+	url = https://github.com/jwjwyoung/evelution_helper.git
+	branch = master
