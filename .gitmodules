@@ -1,0 +1,4 @@
+[submodule "snake"]
+	path = snake
+	url = https://github.com/jwjwyoung/snake.git
+	branch = master
