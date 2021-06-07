@@ -33,3 +33,9 @@
 ![Install from marketplace](column_deletion/Slide5.jpeg)
 
 ![Install from marketplace](column_deletion/Slide6.jpeg)
+
+![Install from marketplace](column_deletion/Slide7.jpeg)
+
+![Install from marketplace](column_deletion/Slide8.jpeg)
+
+![Install from marketplace](column_deletion/Slide9.jpeg)
