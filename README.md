@@ -16,4 +16,4 @@
   - how to use
 
 # Installation
-[demo-video/Slide4.jpeg]
+![Install from marketplace](demo-video/Slide4.jpeg)
