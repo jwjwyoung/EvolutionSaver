@@ -17,3 +17,11 @@
 
 # Installation
 ![Install from marketplace](demo-video/Slide4.jpeg)
+
+![Install from marketplace](demo-video/Slide5.jpeg)
+
+# Usage
+
+![Install from marketplace](demo-video/Slide6.jpeg)
+
+![Install from marketplace](demo-video/Slide7.jpeg)
