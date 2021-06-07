@@ -8,3 +8,10 @@
 ### Supported language
   - Django
   - Rails
+
+
+# Tutorial includes
+
+  - how to install
+  - how to use
+
