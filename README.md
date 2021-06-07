@@ -15,3 +15,5 @@
   - how to install
   - how to use
 
+# Installation
+[demo-video/Slide4.jpeg]
