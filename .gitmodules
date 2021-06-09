@@ -27,3 +27,21 @@
 [submodule "parser"]
 	path = parser
 	url = https://github.com/sophie200/parser.git
+[submodule "apps/zulip"]
+	path = apps/zulip
+	url = https://github.com/zulip/zulip
+[submodule "apps/awx"]
+	path = apps/awx
+	url = https://github.com/ansible/awx
+[submodule "apps/saleor"]
+	path = apps/saleor
+	url = https://github.com/mirumee/saleor
+[submodule "apps/healthchecks"]
+	path = apps/healthchecks
+	url = https://github.com/healthchecks/healthchecks
+[submodule "apps/Gerapy"]
+	path = apps/Gerapy
+	url = https://github.com/Gerapy/Gerapy
+[submodule "apps/posthog"]
+	path = apps/posthog
+	url = https://github.com/PostHog/posthog
