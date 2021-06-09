@@ -24,3 +24,6 @@
 [submodule "apps/diaspora"]
 	path = apps/diaspora
 	url = https://github.com/diaspora/diaspora.git
+[submodule "parser"]
+	path = parser
+	url = https://github.com/sophie200/parser.git
