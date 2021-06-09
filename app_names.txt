@@ -1,0 +1,6 @@
+lobsters	https://github.com/lobsters/lobsters.git	db10cd115ff340ed2e0ffb4301f0cc596858393a
+gitlabhq	https://github.com/gitlabhq/gitlabhq.git	68c476dbd8a2c670aeeebffce8b63b554a3ac7f0
+spree	https://github.com/spree/spree	ea3b1441c8e79ac77eeb73a736994e4738fb101a
+tracks	https://github.com/TracksApp/tracks	09b408b3143d4e7b507dda12c41f6b8cea93b684
+onebody	https://github.com/seven1m/onebody.git	afafb44481e8745f7e99d5b987c31626e2e5b452
+diaspora	https://github.com/diaspora/diaspora.git	f45c5be95cec15c213b2c75041f81371ef3c2e4f

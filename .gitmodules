@@ -6,3 +6,21 @@
 	path = evelution_helper
 	url = https://github.com/jwjwyoung/evelution_helper.git
 	branch = master
+[submodule "apps/lobsters"]
+	path = apps/lobsters
+	url = https://github.com/lobsters/lobsters.git
+[submodule "apps/gitlabhq"]
+	path = apps/gitlabhq
+	url = https://github.com/gitlabhq/gitlabhq.git
+[submodule "apps/spree"]
+	path = apps/spree
+	url = https://github.com/spree/spree
+[submodule "apps/tracks"]
+	path = apps/tracks
+	url = https://github.com/TracksApp/tracks
+[submodule "apps/onebody"]
+	path = apps/onebody
+	url = https://github.com/seven1m/onebody.git
+[submodule "apps/diaspora"]
+	path = apps/diaspora
+	url = https://github.com/diaspora/diaspora.git
