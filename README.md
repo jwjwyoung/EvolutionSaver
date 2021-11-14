@@ -4,7 +4,11 @@
   - Table, column, association rename
   - Table, column, association, index delete
   - Column, association type change
-  
+ 
+### Publication
+
+- Automated Code Refactoring upon Database-Schema Changes in Web Applications
+
 ### Supported language
   - Django
   - Rails
